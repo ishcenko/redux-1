@@ -1,5 +1,3 @@
-import { type } from '@testing-library/user-event/dist/type';
-
 const initialState = {
   postDetails: null,
   isLoading: false,
